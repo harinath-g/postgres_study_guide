@@ -6,3 +6,7 @@ Watch the below video to understand the MVCC concept and auto vaccum of postgres
 https://www.youtube.com/watch?v=TBmDBw1IIoY
 
 what is the difference of vaccum <table_name> and vaccum full <table_name>
+
+
+
+Postgress internals -- https://edu.postgrespro.com/postgresql_internals-14_en.pdf
